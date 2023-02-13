@@ -1,0 +1,13 @@
+gitSourceBranch = "main"
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+favicon = ""
+
+# From git:
+organizationName = "ryanlin"
+projectName = "moonwave-test"
+url = "https://ryanlin.github.io"
+baseUrl = "/moonwave-test/"
+tagline = ""
