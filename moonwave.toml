@@ -3,7 +3,6 @@ gitSourceBranch = "main"
 [docusaurus]
 onBrokenLinks = "throw"
 onBrokenMarkdownLinks = "warn"
-favicon = ""
 
 # From git:
 organizationName = "ryanlin"
